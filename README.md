@@ -24,6 +24,9 @@
 <a href="mailto:chaitanyabishnoi123@gmail.com.com">
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
+<a href="https://www.discord.gg/chaitanya8541" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
 <a href="https://linkedin.com/in/chaitanya-bishnoi-8419a4214" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>

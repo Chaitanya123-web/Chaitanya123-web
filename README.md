@@ -8,9 +8,9 @@
 
 <div align="left">
    
- 🔭 I’m currently working on **ShramSetu**<br>
- 🌱 I’m currently learning **Docker, AWS**<br>
-💬 Ask me about **Node.js, React, NextJs...**<br>
+ 🔭 I’m currently working on **Vantage AI**<br>
+ 🌱 I’m currently learning **AWS, Kubernetes, Nginx**<br>
+💬 Ask me about **Node.js, React, Express...**<br>
 <--📄 Know more about me on my [**Resume**](https://docs.google.com/document/d/1ZrOCMGV05kq1kDvRmKJLNssCYWzuxaEpGtAta3Wk2aU/edit?usp=sharing)<br>/-->
 <br>
 
@@ -27,9 +27,6 @@
 <a href="https://linkedin.com/in/chaitanya-bishnoi-8419a4214" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://www.codechef.com/users/trooperr" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-333333?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-</a>
 <a href="https://www.leetcode.com/Chaitanya_Bishnoi" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
 </a>
@@ -41,7 +38,7 @@
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,express,nodejs,github"/>
-<img src="https://skillicons.dev/icons?i=tailwind,git,mongodb,c,cpp,postgresql,mysql" /><br>
+<img src="https://skillicons.dev/icons?i=tailwind,git,mongodb,c,cpp,python,postgresql,mysql,docker" /><br>
 </div>
 <br/>
 

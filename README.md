@@ -11,7 +11,7 @@
  🔭 I’m currently working on **Vantage AI**<br>
  🌱 I’m currently learning **AWS, Kubernetes, Nginx**<br>
 💬 Ask me about **Node.js, React, Express...**<br>
-📄 Know more about me on my [**Resume**](https://docs.google.com/document/d/14WtyhOQ85ypNziLzvKHIZNHdAXuLAjN3-LY-XwmF-dI/edit?usp=sharing)<br>
+📄 Know more about me on my [**Resume**](https://docs.google.com/document/d/1VS-nBbcX--DfWXvx6sQDDwDUtNFdAym8Dyab8heGIiw/edit?tab=t.0)<br>
 <br>
 
 </div>
